@@ -11,3 +11,26 @@ body {
 .shadow {
     box-shadow: 0px 2px 5px 2px darkgrey;
 }
+h1{
+    padding: 50px;
+    margin: 20px;
+    text-align: center;
+    margin-left:10% ;
+    margin-right:10% ;
+}
+
+.navbar {
+    padding: 30px;
+    width: 100px;
+}
+
+.nav-item {
+    list-style: none;
+}
+.nav-link {
+    text-decoration: none;
+    color: black
+}#content {
+    margin-left: 200px;
+    margin-top: -60px;
+}
